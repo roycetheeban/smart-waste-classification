@@ -31,3 +31,16 @@ An intelligent waste classification system that uses digital image processing to
 | 🤖 CNN Classification | Custom-trained model from scratch |
 | 📊 Waste Analytics | Daily/weekly statistics and reports |
 | 🎮 Streamlit UI | Interactive web interface |
+
+
+### Directory Details:
+- **`plastic/`** - Contains all plastic waste items (bottles, containers, wrappers)
+- **`paper/`** - Includes paper and cardboard materials (boxes, newspapers, cartons)
+- **`metal/`** - Metal objects (cans, foils, scrap metal)
+- **`glass/`** - Glass bottles, jars, and other glass items
+- **`organic/`** - Biodegradable waste (food scraps, yard waste)
+
+### Expected File Formats:
+- `.jpg`
+- `.jpeg`
+- `.png` (transparency will be converted to white background)
