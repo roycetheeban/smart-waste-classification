@@ -1,5 +1,6 @@
 # 🗑️ Smart Waste Classification System
-![Project Banner](https://via.placeholder.com/800x300/2D3747/FFFFFF?text=Smart+Waste+Classification)  
+<img width="1205" height="542" alt="image" src="https://github.com/user-attachments/assets/9a34e630-cfe6-4dbc-9b38-1c5681dc2832" />
+
 *Digital Image Processing Based Waste Management Solution*
 
 ## 📌 Table of Contents
