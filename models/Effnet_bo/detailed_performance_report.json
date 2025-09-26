@@ -1,0 +1,45 @@
+{
+  "model_info": {
+    "architecture": "EfficientNet-B3",
+    "total_parameters": 4797569,
+    "trainable_parameters": 1919797
+  },
+  "dataset_info": {
+    "total_images": 2545,
+    "train_images": 1527,
+    "validation_images": 509,
+    "test_images": 509,
+    "classes": [
+      "glass",
+      "metal",
+      "Organic",
+      "paper",
+      "plastic"
+    ],
+    "class_distribution": {
+      "glass": 501,
+      "metal": 410,
+      "Organic": 540,
+      "paper": 612,
+      "plastic": 482
+    }
+  },
+  "training_results": {
+    "epochs_completed": 10,
+    "best_validation_accuracy": 84.28290766208251,
+    "final_training_accuracy": 77.66863130320891,
+    "final_training_loss": 0.12855314950381094
+  },
+  "test_results": {
+    "test_accuracy": 0.831041257367387,
+    "mean_confidence": 0.8504190444946289,
+    "std_confidence": 0.16880621016025543,
+    "class_wise_accuracy": {
+      "glass": 0.82,
+      "metal": 0.8536585365853658,
+      "Organic": 0.8888888888888888,
+      "paper": 0.8852459016393442,
+      "plastic": 0.6907216494845361
+    },
+    "class_wise_counts": {
+      "glass": 
